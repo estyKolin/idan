@@ -1,0 +1,22 @@
+{
+  "name": "idan-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainPage.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGabay/idan.git"
+  },
+  "author": "idan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielGabay/idan/issues"
+  },
+  "homepage": "https://github.com/DanielGabay/idan#readme",
+  "dependencies": {
+    "electron": "^4.1.3"
+  }
+}
